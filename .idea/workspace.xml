@@ -14,17 +14,20 @@
       <file leaf-file-name="validar_ruc.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/validar_ruc.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state relative-caret-position="45">
+              <caret line="3" column="36" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="validar_ruc.gemspec" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/validar_ruc.gemspec">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="236">
+                <caret line="24" column="87" selection-start-line="24" selection-start-column="87" selection-end-line="24" selection-end-column="87" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -39,6 +42,7 @@
       <list>
         <option value="$PROJECT_DIR$/lib/validar_ruc.rb" />
         <option value="$PROJECT_DIR$/validar_ruc.gemspec" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -140,12 +144,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532047598660</updated>
-      <workItem from="1532047600427" duration="187000" />
+      <workItem from="1532047600427" duration="380000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="187000" />
+    <option name="totallyTimeSpent" value="380000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="852" extended-state="6" />
@@ -179,17 +183,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/validar_ruc.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/validar_ruc.gemspec">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/validar_ruc.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="36" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="236">
+            <caret line="24" column="87" selection-start-line="24" selection-start-column="87" selection-end-line="24" selection-end-column="87" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
