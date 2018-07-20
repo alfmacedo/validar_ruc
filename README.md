@@ -22,7 +22,7 @@ ValidarRuc.validar(20000000001)
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/ronaldmaacedo/validar_ruc. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/ronaldmacedo/validar_ruc. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
